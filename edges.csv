@@ -1,0 +1,8 @@
+from,to,weight,relation
+Canan,Sabine,3,1
+Canan,Clara,2,2
+Canan,Rebecca,2,3
+Canan,Charlotte,2,3
+Sabine,Charlotte,2,4
+Sabine,Clara,1,4
+Sabine,Rebecca,1,4
